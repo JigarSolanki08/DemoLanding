@@ -1,0 +1,26 @@
+.bbtn{
+  background: #FF784B;
+  color: #fff;
+}
+
+.nav-links{
+  list-style: none;
+  color: black;
+}
+.nav-links a{
+  color: black;
+  text-decoration: none;
+}
+
+.nav-links a:hover{
+  color: #0055FF;
+}
+
+.nav-links li:hover{
+  color: #0055FF;
+  cursor: pointer;
+}
+
+
+
+
